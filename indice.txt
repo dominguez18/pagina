@@ -1,2 +1,2 @@
-
-exit
+cap 1: introduccion
+cap 2: gestion
